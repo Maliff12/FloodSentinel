@@ -1,6 +1,6 @@
-# floodsentinel
+# Flood Sentinel
 
-A new Flutter project.
+A Flutter project for Flood Alert System.
 
 ## Getting Started
 
